@@ -1,19 +1,19 @@
 {
   "name": "native-node-dns-cache",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "authors": [
     "Francis Turner <francis.turner@gmail.com>",
     "Timothy J Fontaine <tjfontaine@gmail.com> (http://atxconsulting.com)"
   ],
   "description": "DNS Caching Library",
   "keywords": [ "dns", "caching" ],
-  "homepage": "http://github.com/tjfontaine/native-dns-cache",
+  "homepage": "http://github.com/FrancisTurner/native-node-dns-cache",
   "bugs": {
-    "url": "http://github.com/tjfontaine/native-dns-cache/issues"
+    "url": "http://github.com/FrancisTurner/native-node-dns-cache/issues"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/tjfontaine/native-dns-cache.git"
+    "url": "http://github.com/FrancisTurner/native-node-dns-cache.git"
   },
   "main": "index.js",
   "engines": {
