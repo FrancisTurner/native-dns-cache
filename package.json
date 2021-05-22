@@ -1,6 +1,6 @@
 {
   "name": "native-node-dns-cache",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "authors": [
     "Francis Turner <francis.turner@gmail.com>",
     "Timothy J Fontaine <tjfontaine@gmail.com> (http://atxconsulting.com)"
@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "binaryheap": ">= 0.0.3",
-    "native-node-dns-packet": ">= 0.0.1"
+    "native-node-dns-packet": ">= 0.1.2"
   },
   "devDependencies": {
   }
